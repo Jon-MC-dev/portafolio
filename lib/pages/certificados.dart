@@ -46,6 +46,14 @@ class Certificados extends StatelessWidget {
                         TargetaDiploma(
                           titulo: 'Remote Work and Virtual Collaboration  \n',
                           rutaImagen: 'lib/img/RemoteWork.png',
+                        ),
+                        SizedBox(
+                          width: 30.0,
+                          height: 30.0,
+                        ),
+                        TargetaDiploma(
+                          titulo: 'Introduction to Programming using Python  \n',
+                          rutaImagen: 'lib/img/Python.png',
                         )
                       ],
                     ),
